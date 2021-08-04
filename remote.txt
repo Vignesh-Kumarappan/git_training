@@ -1,2 +1,2 @@
 file created in remote
-sending 2 from remote
+sending 1 from local
