@@ -1,1 +1,2 @@
 file created in remote
+line 2 modified from remote
